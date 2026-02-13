@@ -29,8 +29,8 @@
 | Название | Обязательно | Назначение |
 |----------|:-----------:|------------|
 | [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | ✅ | Платформа для плагинов |
-| [[FORK] MenuManager](https://github.com/Starter1552/MenuManagerCS2-FORK) | ❌ | Кнопочное меню (WASD + E/R). Без него — стандартное меню CSS |
-| [IksAdmin](https://github.com/Iksix/Iks_Admin_2.2) | ❌ | Система наказаний (`css_ban`, `css_gag`, `css_mute`) |
+| [[FORK] MenuManager](https://csdevs.net/resources/menumanager.1174/) | ❌ | Кнопочное меню (WASD + E/R). Без него — стандартное меню CSS |
+| [IksAdmin](https://github.com/Iksix/Iks_Admin) | ❌ | Система наказаний (`css_ban`, `css_gag`, `css_mute`) |
 | Admin System | ❌ | Система наказаний (`mm_ban`, `mm_gag`, `mm_mute`) |
 
 ---
@@ -39,18 +39,8 @@
 
 1. Скачайте и установите [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 2. (Рекомендуется) Установите [[FORK] MenuManager](https://github.com/Starter1552/MenuManagerCS2-FORK) для кнопочного меню
-3. Скомпилируйте плагин:
-   ```
-   dotnet build -c Release
-   ```
-4. Скопируйте содержимое `bin/Release/net8.0/` в:
-   ```
-   game/csgo/addons/counterstrikesharp/plugins/VoteSystem/
-   ```
-5. Перезагрузите сервер — файл `config.json` создастся автоматически
-6. Настройте `config.json` под ваш сервер
-
-> **Примечание:** MenuManagerApi.dll не требуется для сборки. Плагин подключается к MenuManager через рефлексию в рантайме.
+3. Перезагрузите сервер — файл `config.json` создастся автоматически
+4. Настройте `config.json` под ваш сервер
 
 ---
 
