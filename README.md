@@ -38,7 +38,7 @@
 ## Установка
 
 1. Скачайте и установите [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
-2. (Рекомендуется) Установите [[FORK] MenuManager](https://github.com/Starter1552/MenuManagerCS2-FORK) для кнопочного меню
+2. (Рекомендуется) Установите [[FORK] MenuManager](https://github.com/Stimayk/MenuManagerCS2) для кнопочного меню
 3. Скомпилируйте плагин:
    ```
    dotnet build -c Release
