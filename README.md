@@ -29,7 +29,7 @@
 | Название | Обязательно | Назначение |
 |----------|:-----------:|------------|
 | [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | ✅ | Платформа для плагинов |
-| [MenuManager](https://github.com/Starter1552/MenuManagerCS2-FORK](https://github.com/Stimayk/MenuManagerCS2) | ❌ | Кнопочное меню (WASD + E/R). Без него — стандартное меню CSS |
+| [[FORK] MenuManager](https://github.com/Stimayk/MenuManagerCS2) | ❌ | Кнопочное меню (WASD + E/R). Без него — стандартное меню CSS |
 | [IksAdmin](https://github.com/Iksix/Iks_Admin_2.2) | ❌ | Система наказаний (`css_ban`, `css_gag`, `css_mute`) |
 | Admin System | ❌ | Система наказаний (`mm_ban`, `mm_gag`, `mm_mute`) |
 
